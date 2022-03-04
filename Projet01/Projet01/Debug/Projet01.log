@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (Projet01.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Projet jeu01 - Potvin, ML.cpp
+D:\OneDrive\Documents\C. Lasalle\Hiver 2020\Programmation structurée\ProjetJeu_PotvinML\Projet01\Projet01\Projet jeu01 - Potvin, ML.cpp(331,24): warning C4018: '<' : incompatibilité signed/unsigned
+  Projet01.vcxproj -> D:\OneDrive\Documents\C. Lasalle\Hiver 2020\Programmation structurée\ProjetJeu_PotvinML\Projet01\Debug\Projet jeu01 - Potvin, ML.exe
